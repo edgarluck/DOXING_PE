@@ -61,7 +61,6 @@ case `cat version.txt` in
 START
 ;;
 *)
-banner2
 echo
 echo
 echo -e "$G[$W+$G]$w NUEVA VERSION "
