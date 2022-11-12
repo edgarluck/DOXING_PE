@@ -92,7 +92,6 @@ sleep 0.5
 cambio=$(cat changes.txt)
 cd $HOME && rm -rf DOXING_PE && git clone https://github.com/edgarluck/DOXING_PE && cd DOXING_PE
 clear
-banner2
 echo
 echo
 echo -e "$G[$W+$G]"
@@ -119,7 +118,6 @@ sleep 0.5
 cambio=$(cat changes.txt)
 cd $HOME && rm -rf DOXING_PE && git clone https://github.com/edgarluck/DOXING_PE && cd DOXING_PE
 clear
-banner2
 echo
 echo
 echo -e "$G[$W+$G]"
