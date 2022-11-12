@@ -55,9 +55,9 @@ wget https://raw.githubusercontent.com/edgarluck/DOXING_PE/main/version.txt
 sleep 0.5
 clear
 version=$(cat version.txt)
-versionactual="1.1"
+versionactual="1.0"
 case `cat version.txt` in
-1.1)
+1.0)
 START
 ;;
 *)
