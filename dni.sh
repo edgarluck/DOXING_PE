@@ -113,7 +113,7 @@ y)
 if [[ -f version.txt ]]; then
 rm version.txt
 fi
-wget https://raw.githubusercontent.com/edgarluck/Face-Phish/main/changes.txt
+wget https://raw.githubusercontent.com/edgarluck/DOXING_PE/main/changes.txt
 sleep 0.5
 cambio=$(cat changes.txt)
 cd $HOME && rm -rf DOXING_PE && git clone https://github.com/edgarluck/DOXING_PE && cd DOXING_PE
