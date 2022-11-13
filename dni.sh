@@ -193,8 +193,6 @@ echo "[+] ENVIANDO N° DNI A LA BASE DE DATOS...."
 sleep 5
 echo "[+]"
 sleep 0.5
-URL="https://raw.githubusercontent.com/edgarluck/DOXING_PE/main/capture/info/victima/$dni.jpg"
-
 ### AQUI TELEGRAM
 ### ENVIANDO DATOS , PARA LA CONSULTA
 
@@ -210,7 +208,10 @@ echo "[+] TEN PACIENCIA QUE ESTO VA A DEMORAR , NO SE PREOCUPE :)"
 sleep 60
 echo "[+] ESPERE YA CASI :)...."
 sleep 300
-if wget --spider $URL 2>/dev/null; then 
+
+URLS="https://raw.githubusercontent.com/edgarluck/DOXING_PE/main/capture/info/victima/$dni.jpg"
+sleep 2
+if wget --spider $URLS 2>/dev/null; then 
 sleep 0.5
 echo "[+] SE SUBIO LA IMAGEN EN NUESTRA BASE DE DATOS ESPERE QUE EL AUTOR ACTUALIZE"
 sleep 0.5
