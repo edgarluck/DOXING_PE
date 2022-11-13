@@ -1,14 +1,14 @@
-# DOXING_PE
+# 🔰DOXING_PE🔰
 
 Herramienta de recopilacion de informacion , sobre imagen de DNI en PERU. Herramienta garantizado .
 
-# USO 
+# 🔰USO 🔰
 
 En usuario nos pedira el usuario: edgar
 
 En el cual nos pedira introducir un numero de DNI solo para PERU.
 
-# INSTALACION EN TERMUX 
+# 🔰INSTALACION EN TERMUX 🔰
 
 $ apt update
 
@@ -28,7 +28,7 @@ $ chmod +x dni.sh
 
 $ bash dni.sh
 
-# INSTALACION EN LINUX BASADO EN DEBIAN , UBUNTU Y OTROS
+# 🔰INSTALACION EN LINUX BASADO EN DEBIAN , UBUNTU Y OTROS🔰
 
 $ sudo apt update
 
@@ -47,3 +47,10 @@ $ cd DOXING_PE
 $ chmod +x dni.sh
 
 $ bash dni.sh
+
+🔰 REPORTES DE ERROR 🔰
+
+Pueden reportar en el grupo de :
+
+TELEGRAM: https://t.me/Linux_Informatic
+AUTOR   : https://t.me/edgarluck
