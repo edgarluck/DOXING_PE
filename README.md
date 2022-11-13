@@ -54,4 +54,6 @@ Pueden reportar en el grupo de :
 
 TELEGRAM: https://t.me/Linux_Informatic
 
+WHATSAPP: https://chat.whatsapp.com/H6InPiy9OJA1m4dSwGY4V1
+
 AUTOR   : https://t.me/edgarluck
