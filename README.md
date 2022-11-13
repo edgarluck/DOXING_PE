@@ -48,7 +48,7 @@ $ chmod +x dni.sh
 
 $ bash dni.sh
 
-🔰 REPORTES DE ERROR 🔰
+# 🔰 REPORTES DE ERROR 🔰
 
 Pueden reportar en el grupo de :
 
