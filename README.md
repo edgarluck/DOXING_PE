@@ -66,7 +66,11 @@ AUTOR   : https://t.me/edgarluck
 
 # 🔰 VERSION PREMIUM 🔰
 
-En la version premiun nos brinda mas informacion completo sobre el DNI.
+* En la version premiun nos brinda mas informacion completo sobre el DNI.
+
+* Sino quiere esperar muchas horas al momento de consultar puedes adquirir la versión premium 
+
+Y evitar las demoras ;) 
 
 # 🔰 CONTACTOS 🔰
 
