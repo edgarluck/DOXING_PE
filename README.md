@@ -53,4 +53,5 @@ $ bash dni.sh
 Pueden reportar en el grupo de :
 
 TELEGRAM: https://t.me/Linux_Informatic
+
 AUTOR   : https://t.me/edgarluck
