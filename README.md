@@ -8,6 +8,12 @@ En usuario nos pedira el usuario: edgar
 
 En el cual nos pedira introducir un numero de DNI solo para PERU.
 
+Las consultas solo están disponibles para mayores de edad si 
+
+Digito un N° de DNI de menor de edad, no le va a mostrar 
+
+Resultados, no insista.!!! 
+
 # 🔰INSTALACION EN TERMUX 🔰
 
 $ apt update
