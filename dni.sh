@@ -87,6 +87,9 @@ Y)
 if [[ -f version.txt ]]; then
 rm version.txt
 fi
+if [[ -f changes.txt ]]; then
+rm changes.txt
+fi
 wget https://raw.githubusercontent.com/edgarluck/DOXING_PE/main/changes.txt
 sleep 0.5
 cambio=$(cat changes.txt)
@@ -112,6 +115,9 @@ bash dni.sh
 y)
 if [[ -f version.txt ]]; then
 rm version.txt
+fi
+if [[ -f changes.txt ]]; then
+rm changes.txt
 fi
 wget https://raw.githubusercontent.com/edgarluck/DOXING_PE/main/changes.txt
 sleep 0.5
