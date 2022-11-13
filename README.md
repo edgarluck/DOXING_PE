@@ -4,7 +4,7 @@ Herramienta de recopilacion de informacion , sobre imagen de DNI en PERU. Herram
 
 # USO 
 
-En usuario no pedira el usuario: edgar
+En usuario nos pedira el usuario: edgar
 
 En el cual nos pedira introducir un numero de DNI solo para PERU.
 
