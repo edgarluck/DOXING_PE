@@ -57,3 +57,12 @@ TELEGRAM: https://t.me/Linux_Informatic
 WHATSAPP: https://chat.whatsapp.com/H6InPiy9OJA1m4dSwGY4V1
 
 AUTOR   : https://t.me/edgarluck
+
+# 🔰 VERSION PREMIUM 🔰
+
+En la version premiun nos brinda mas informacion completo sobre el DNI :
+
+### 🔰 CONTACTOS 🔰
+
+TELEGRAM : https://t.me/edgarluck
+WHATSAPP : +51 938 454 671
