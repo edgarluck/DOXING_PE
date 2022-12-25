@@ -54,6 +54,8 @@ $ chmod +x dni.sh
 
 $ bash dni.sh
 
+# HERRAMIENTA EN MANTENIMIENTO
+
 # 🔰 REPORTES DE ERROR 🔰
 
 Pueden reportar en el grupo de :
