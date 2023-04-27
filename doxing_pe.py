@@ -3,27 +3,6 @@ import time
 import os
 import git
 
-# Configura el repositorio de Git
-repo = git.Repo('https://github.com/edgarluck/DOXING_PE.git')
-
-# Descarga los cambios del repositorio
-origin = repo.remotes.origin
-origin.fetch()
-
-# Obtiene la rama actual
-current_branch = repo.active_branch.name
-
-# Comprueba si hay cambios disponibles
-if origin.refs[current_branch].commit != repo.head.commit:
-    # Descarga los cambios
-    origin.pull()
-    
-    # Reinicia el script para que se ejecute con la versión actualizada
-    os.execv(__file__, sys.argv)
-else:
-    print("No hay actualizaciones disponibles")
-
-
 username = input("Digite su usuario: ")
 password = input("Digite su contraseña: ")
 
