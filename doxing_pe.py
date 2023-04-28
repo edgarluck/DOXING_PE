@@ -21,7 +21,7 @@ def check_updates():
     time.sleep(0.5)
     clear_screen()
     version = open("version.txt").read().strip()
-    current_version = "1.1"
+    current_version = "1.1.1"
     if version == current_version:
         print("[+] La API está actualizada.")
         time.sleep(1)
