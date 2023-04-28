@@ -60,7 +60,7 @@ WHATSAPP: https://chat.whatsapp.com/H6InPiy9OJA1m4dSwGY4V1
 
 AUTOR : https://t.me/edgarluck
 
-🔰 VERSION PREMIUM 🔰
+# 🔰 VERSION PREMIUM 🔰
 
 En la version premiun se tiene acceso a los credenciales con mas tiempo , la version free solo dura 2 dias de igual manera nos brinda mas informacion completo sobre el DNI.
 
@@ -69,3 +69,9 @@ Como Dirección, estado de la persona , nombre completo, ubigeo, nombre de los P
 No hay límites de consulta, tanto en free como premium.
 
 ¿Quieres mas tiempo en consultar? Puedes adquirir la versión Premium.
+
+# 🔰 CONTACTOS 🔰
+
+TELEGRAM : https://t.me/edgarluck
+
+WHATSAPP : +51 938 454 671
