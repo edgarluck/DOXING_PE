@@ -44,7 +44,7 @@ def update():
     time.sleep(0.5)
     print("[+] Pulsa cualquier tecla para continuar...")
     input()
-    subprocess.run("cd $HOME && cd DOXING_PE && chmod +x dni.sh", shell=True)
+    subprocess.run("cd $HOME && cd DOXING_PE && chmod +x doxing_pe.py && python doxing_pe.py", shell=True)
     
 def doxing():
     username = input("Digite su usuario: ")
