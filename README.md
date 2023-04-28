@@ -42,6 +42,8 @@ $ sudo apt-get install git -y
 
 $ sudo apt-get install curl -y
 
+$ sudo apt-get install python -y
+
 $ git clone https://github.com/edgarluck/DOXING_PE.git
 
 $ cd DOXING_PE
