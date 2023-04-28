@@ -6,6 +6,8 @@ Herramienta de recopilación de información por numero de DNI de PERU . Herrami
 
 * requests
 * python
+* python-telegram-bot
+* 
 
 
 # 🔰 INSTALACION EN TERMUX 🔰
