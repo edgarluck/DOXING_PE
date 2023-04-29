@@ -2,7 +2,7 @@
 
 Herramienta de recopilación de información por numero de DNI de PERU . Herramienta garantizado.
 
-# 🔰 REQUISISTOS 🔰
+# 🔰 REQUISITOS 🔰
 
 * requests
 * python
