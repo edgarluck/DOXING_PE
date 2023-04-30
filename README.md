@@ -72,7 +72,7 @@ En la version premiun se tiene acceso a los credenciales con mas tiempo , la ver
 
 Como Dirección, estado de la persona , nombre completo, ubigeo, nombre de los Padres. Etc...
 
-No hay límites de consulta, tanto en free como premium.
+No hay límites de consulta, tanto en free como premium. (se aplicó el sistema de créditos)
 
 ¿Quieres mas tiempo en consultar? Puedes adquirir la versión Premium.
 
