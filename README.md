@@ -54,7 +54,7 @@ $ python doxing_pe.py
 
 Para usar la herramienta se requiere de los credenciales que los brinda --> @edgarluck
 
-La version free , solo tendran 40 creditos para iniciar. 
+La version free , solo tendran 20 creditos para iniciar. 
 
 # 🔰 REPORTES DE ERROR 🔰
 
