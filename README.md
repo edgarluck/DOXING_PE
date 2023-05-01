@@ -1,4 +1,4 @@
-# 🔰 DOXING_PE 🔰 [ EN MANTENIMIENTO ]
+# 🔰 DOXING_PE 🔰 [ ONLINE]
 
 Herramienta de recopilación de información por numero de DNI de PERU . Herramienta garantizado.
 
