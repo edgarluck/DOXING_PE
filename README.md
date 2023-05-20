@@ -68,7 +68,7 @@ AUTOR : https://t.me/edgarluck
 
 # 🔰 VERSION PREMIUM 🔰
 
-En la version premiun se tiene acceso a los credenciales con mas tiempo , la version free solo dura 2 dias de igual manera nos brinda mas informacion completo sobre el DNI.
+En la version premiun se tiene acceso a los credenciales,la version free solo tendras 12 creditos como primer usuario de igual manera nos brinda mas informacion completo sobre el DNI.
 
 Como Dirección, estado de la persona , nombre completo, ubigeo, nombre de los Padres. Etc...
 
