@@ -39,7 +39,7 @@ def check_updates():
     time.sleep(0.5)
     clear_screen()
     version = open("version.txt").read().strip()
-    current_version = "1.1.16"
+    current_version = "1.1.17"
     if version == current_version:
         print("[+] La API está actualizada.")
         time.sleep(1)
@@ -95,7 +95,7 @@ def doxing():
     username = input("Digite su usuario: ")
     password = input("Digite su contraseña: ")
 
-    url = 'https://6bd2-190-237-172-32.ngrok-free.app/login'
+    url = 'https://f65a-190-237-172-150.ngrok-free.app/login'
     data = {'username': username, 'password': password}
     response = requests.post(url, json=data)
     token = response.json().get('access_token')
@@ -109,7 +109,7 @@ def doxing():
 
     dni = input("Digite su dni: ")
     print("\n")
-    url = f'https://6bd2-190-237-172-32.ngrok-free.app/data/{dni}'
+    url = f'https://f65a-190-237-172-150.ngrok-free.app/data/{dni}'
     headers = {'Authorization': f'Bearer {token}'}
     response = requests.get(url, headers=headers)
     data = response.json()
