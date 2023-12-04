@@ -1,4 +1,4 @@
-# 🔰 DOXING_PE 🔰 [ OFF ]
+# 🔰 DOXING_PE 🔰 [ ON ]
 
 Herramienta de recopilación de información por numero de DNI de PERU . Herramienta garantizado.
 
@@ -54,7 +54,7 @@ $ python doxing_pe.py
 
 Para usar la herramienta se requiere de los credenciales que los brinda --> @edgarluck
 
-La version free , solo tendran 12 creditos para iniciar. 
+La version free , solo tendran 4 creditos para iniciar. 
 
 # 🔰 REPORTES DE ERROR 🔰
 
