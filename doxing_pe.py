@@ -4,7 +4,7 @@ import subprocess
 from git import Repo
 import requests
 
-VERSION = "1.1.22"
+VERSION = "1.1.23"
 REPO_URL = "https://github.com/edgarluck/DOXING_PE.git"
 TARGET_DIRECTORY = "DOXING_PE"
 
@@ -62,14 +62,14 @@ def menu():
     return opcion
 
 def consultar_dni(dni):
-    response = requests.get(f'https://780b-132-191-2-29.ngrok-free.app/api/personas?dni={dni}')
+    response = requests.get(f'https://d337-132-191-2-29.ngrok-free.app/api/personas?dni={dni}')
     if response.status_code == 200:
         print(response.text)
     else:
         print("Error:", response.text)
 
 def consultar_nombres(nombres, apellido_paterno, apellido_materno):
-    response = requests.get(f'https://780b-132-191-2-29.ngrok-free.app/api/personas?nombres={nombres}&apellidoPaterno={apellido_paterno}&apellidoMaterno={apellido_materno}')
+    response = requests.get(f'https://d337-132-191-2-29.ngrok-free.app/api/personas?nombres={nombres}&apellidoPaterno={apellido_paterno}&apellidoMaterno={apellido_materno}')
     if response.status_code == 200:
         print(response.text)
     else:
