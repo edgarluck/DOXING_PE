@@ -82,7 +82,9 @@ AUTOR : https://t.me/edgarluck
 # 🔰 VERSION PREMIUM 🔰
 
 En la version premiun se tiene acceso a los a los datos completos sin adquirir creditos.
+
 Si realiza consultas temporales puede adquirir creditos.
+
 Los datos en salida que brinda son :
 
 *  Dirección
