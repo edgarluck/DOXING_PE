@@ -4,7 +4,7 @@ import subprocess
 from git import Repo
 import requests
 
-VERSION = "1.1.21"
+VERSION = "1.1.22"
 REPO_URL = "https://github.com/edgarluck/DOXING_PE.git"
 TARGET_DIRECTORY = "DOXING_PE"
 
