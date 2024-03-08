@@ -1,6 +1,10 @@
 # 🔰 DOXING_PE 🔰 [ ON ]
 
-Herramienta de recopilación de información por numero de DNI de PERU . Herramienta garantizado.
+DOXING_PE es una herramienta de recopilación de información basada en el número de DNI y por nombres de Perú. Ofrece un acceso garantizado y confiable a datos personales utilizando un enfoque eficaz y seguro. Con una interfaz intuitiva y funcionalidades sólidas, permite a los usuarios obtener rápidamente información detallada basada en números de identificación peruana.
+
+# 🔰Funcionamiento 🔰
+
+El servidor utiliza la dirección IP del cliente como un identificador único para autorizar el acceso a sus servicios. Cuando un cliente realiza una solicitud, el servidor verifica la dirección IP del cliente para determinar si está autorizado a utilizar los servicios. Para garantizar la seguridad y la precisión en la identificación de los clientes, el servidor utiliza el encabezado X-Forwarded-For proporcionado por ngrok, el cual contiene la dirección IP real del cliente, incluso cuando el servidor se encuentra detrás de un proxy como ngrok. Esto permite que el servidor autorice adecuadamente a los clientes y proporcione un acceso seguro a sus servicios de consulta de información personal a través de una API REST.
 
 # 🔰 REQUISITOS 🔰
 
