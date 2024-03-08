@@ -8,11 +8,23 @@ VERSION = "1.1.19"
 REPO_URL = "https://github.com/edgarluck/DOXING_PE.git"
 TARGET_DIRECTORY = "DOXING_PE"
 
+
 def download_update(repo_url, target_directory):
     # Clonar el repositorio
-    if os.path.exists(target_directory):
-        shutil.rmtree(target_directory)
-    Repo.clone_from(repo_url, target_directory)
+    temp_dir = os.path.join(os.path.dirname(target_directory), 'temp_DOXING_PE')
+    Repo.clone_from(repo_url, temp_dir)
+
+    # Mover archivos de la nueva versión al directorio de destino
+    for root, dirs, files in os.walk(temp_dir):
+        for file in files:
+            src_file = os.path.join(root, file)
+            rel_path = os.path.relpath(src_file, temp_dir)
+            dest_file = os.path.join(target_directory, rel_path)
+            os.makedirs(os.path.dirname(dest_file), exist_ok=True)
+            shutil.copy2(src_file, dest_file)
+
+    # Eliminar el directorio temporal
+    shutil.rmtree(temp_dir)
     print("Actualización descargada correctamente.")
 
 def install_update(target_directory):
@@ -76,4 +88,5 @@ def consultar_nombres(nombres, apellido_paterno, apellido_materno):
 
 if __name__ == '__main__':
     main()
+
 
