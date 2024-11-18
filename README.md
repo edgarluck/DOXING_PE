@@ -22,6 +22,30 @@ Adquiere más créditos según lo que necesites y lleva tu experiencia al siguie
 * Consultar DNI
 Accede a la información de un DNI específico de manera rápida y segura.
 
+🔰 INSTALACION EN TERMUX 🔰
+
+$ apt update
+
+$ apt upgrade -y
+
+$ pkg install wget -y
+
+$ pkg install git -y
+
+$ pkg install curl -y
+
+$ pkg install python -y
+
+$ pkg install python3-pip
+
+$ pip3 install requests
+
+$ git clone https://github.com/edgarluck/DOXING_PE.git
+
+$ cd DOXING_PE
+
+$ python3 doxing.py
+
 🔰 CONTACTOS 🔰
 TELEGRAM : https://t.me/edgarluck
 
